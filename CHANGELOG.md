@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.3](https://github.com/langchain-ai/langsmith-python/compare/v0.16.2...v0.16.3) (2026-11-24)
+
+
+### Features
+
+* **python:** trace MCP clients and servers ([36c0092](https://github.com/langchain-ai/langsmith-python/commit/36c009298d1dd673d8bb80e9fa57d20ccd3f4519))
+
 ## [0.16.2](https://github.com/langchain-ai/langsmith-python/compare/v0.16.1...v0.16.2) (2026-11-24)
 
 
